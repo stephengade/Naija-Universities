@@ -10,6 +10,100 @@ interface iNaijaSchools {
 
 export const NaijaSchools: iNaijaSchools[] = [
   {
+    "code": "MOUAU",
+    "name": "Michael Okpara University of Agriculture",
+    "founded": "1992",
+    "location": "Umudike, Abia State",
+    "website": "https://mouau.edu.ng",
+    "type": "Federal"
+  },
+  {
+    "code": "UNIZIK",
+    "name": "Nnamdi Azikiwe University",
+    "founded": "1992",
+    "location": "Awka, Anambra State",
+    "website": "https://unizik.edu.ng",
+    "type": "Federal"
+  },
+  {
+    "code": "OSUSTECH",
+    "name": "Ondo State University of Science and Technology",
+    "founded": "2008",
+    "location": "Okitipupa, Ondo State",
+    "website": "https://osustech.edu.ng",
+    "type": "State"
+  },
+  {
+    "code": "FUOYE",
+    "name": "Federal University Oye-Ekiti",
+    "founded": "2011",
+    "location": "Oye-Ekiti, Ekiti State",
+    "website": "https://fuoye.edu.ng",
+    "type": "Federal"
+  },
+  {
+    "code": "FUTO",
+    "name": "Federal University of Technology, Owerri",
+    "founded": "1980",
+    "location": "Owerri, Imo State",
+    "website": "https://futo.edu.ng",
+    "type": "Federal"
+  },
+  {
+    "code": "FUNAI",
+    "name": "Alex Ekwueme Federal University, Ndufu-Alike",
+    "founded": "2011",
+    "location": "Ebonyi State",
+    "website": "https://funai.edu.ng",
+    "type": "Federal"
+  },
+  {
+    "code": "DELSU",
+    "name": "Delta State University",
+    "founded": "1992",
+    "location": "Abraka, Delta State",
+    "website": "https://delsu.edu.ng",
+    "type": "State"
+  },
+  {
+    "code": "UNIZIK",
+    "name": "Nnamdi Azikiwe University",
+    "founded": "1992",
+    "location": "Awka, Anambra State",
+    "website": "https://unizik.edu.ng",
+    "type": "Federal"
+  },
+  {
+    "code": "GSU",
+    "name": "Gombe State University",
+    "founded": "2004",
+    "location": "Gombe, Gombe State",
+    "website": "https://gsu.edu.ng",
+    "type": "State"
+  },
+  {
+    "code": "ESUTECH",
+    "name": "Enugu State University of Science and Technology",
+    "founded": "1980",
+    "location": "Enugu, Enugu State",
+    "website": "https://esut.edu.ng",
+    "type": "State"
+  },
+  {
+    "code": "UMYUK",
+    "name": "Umaru Musa Yar'adua University",
+    "founded": "2006",
+    "location": "Katsina, Katsina State",
+    "website": "https://umyu.edu.ng",
+    "type": "Federal"
+  },
+  {
+    "code": "UNIUYO",
+    "name": "University of Uyo",
+
+  },
+
+  {
     "code": "UNILAG",
     "name": "University of Lagos",
     "founded": "1962",
@@ -170,3 +264,9 @@ export const NaijaSchools: iNaijaSchools[] = [
     "type": "State"
   }
 ]
+ 
+
+
+
+
+
